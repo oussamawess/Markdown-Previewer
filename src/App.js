@@ -15,13 +15,12 @@ function App() {
     "age": 25
   }
   \`\`\`
-  -First item
-  -Second item
-  -Third item
+  - First item
+  - Second item
+  - Third item
   > blockquote
   ![alt text](image.jpg)
   **bold text**
-
   `) 
 
   marked.setOptions({
