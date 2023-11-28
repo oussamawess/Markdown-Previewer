@@ -19,7 +19,7 @@ function App() {
   - Second item
   - Third item
   > blockquote
-  ![alt text](image.jpg)
+  ![alt text](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)
   **bold text**
   `) 
 
